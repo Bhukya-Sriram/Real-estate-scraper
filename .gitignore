@@ -1,0 +1,20 @@
+# python
+__pycache__/
+*.py[cod]
+
+# environment files
+.env
+example.env
+
+# virtual environments
+venv/
+.venv/
+
+# editor / os
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# scrapy
+.scrapy
